@@ -1,4 +1,5 @@
 Data Analytics Project – End-to-End Analysis & Dashboard
+
 📌 Overview
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data ingestion to insights visualization and reporting. It covers data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, interactive dashboard creation using Power BI, and final reporting through a presentation.
