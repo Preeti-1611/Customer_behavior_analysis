@@ -25,6 +25,7 @@ Power BI (Dashboard & visualization)
 
 
 🔄 Project Workflow / Steps
+
 1️⃣ Data Loading
 
 Loaded dataset using Python
